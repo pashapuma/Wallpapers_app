@@ -1,8 +1,8 @@
 ## Pix Wallpapers
 
- [Privacy Policy](https://pashapuma.github.io/Wallpapers_app/policy) 
+ [Privacy Policy](https://pashapuma.github.io/Wallpapers_app/policy/policy) 
 
- [Terms and Conditions](https://pashapuma.github.io/Wallpapers_app/terms)
+ [Terms and Conditions](https://pashapuma.github.io/Wallpapers_app/policy/terms)
 
 
 
